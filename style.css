@@ -89,6 +89,11 @@ footer {
   font-weight: bold;
 }
 
+.footer .btn-outline-danger {
+  font-size: 1em;
+  margin: 0.25em !important;
+}
+
 @media only screen and (min-width: 750px) {
 
     h5 {
