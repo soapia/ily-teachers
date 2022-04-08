@@ -2,7 +2,7 @@
 
 body {
   background-color: #EBF5DF;
-  color: #C04CFD;
+  color: #5E2BFF;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
@@ -41,8 +41,8 @@ p:last-of-type {
 
 .btn-outline-danger {
   color: white;
-  background-color: #5E2BFF;
-  border-color: #5E2BFF;
+  background-color: #C04CFD;
+  border-color: #C04CFD;
   font-weight: bold;
   font-size: 1.5em;
   margin: 0.25em;
@@ -85,7 +85,8 @@ footer {
 }
 
 .footer a {
-  color: #98CE00;
+  color: #EBF5DF;
+  font-weight: bold;
 }
 
 @media only screen and (min-width: 750px) {
@@ -97,6 +98,7 @@ footer {
 
     h6 {
       font-size: 1.25em;
+      padding: 0.5em 7em 0.5em 7em;
     }
 
     .btn {
@@ -104,7 +106,7 @@ footer {
     }
 
     h1 {
-      line-height: 100%;
+/*       line-height: 100%; */
       font-size: 5em;
 /*       font-weight: bold; */
 /*       -webkit-text-stroke-width: 1.5px; */
@@ -112,8 +114,8 @@ footer {
 
     p {
       font-size: 1.25em;
-      line-height: 100%;
-      padding: 1em 6em 1em 6em;
+/*       line-height: 100%; */
+      padding: 0em 6em 0.5em 6em;
     /*   color: #231651 */
     }
   footer {
@@ -123,6 +125,7 @@ footer {
   }
   p:last-of-type {
     margin-bottom: 4em;
+    margin-top: 0.5em;
   }
     
 }

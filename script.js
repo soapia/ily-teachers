@@ -89,7 +89,9 @@ var emailSubject = encodeURIComponent(subject)
 var emailLink=`mailto:ingrahamangle@fox.com?subject=${emailSubject}&body=${emailLetter}`
   $('#email').attr("href", emailLink) 
 
-// var combos = ithink.length * towns.length * schoolType.length * sportType.length * wap_lyrics.length * roman.length * btw.length * bwm.length * bonfire.length * heyya.length * bee.length * choices.length * allowed.length * allowing.length * allow.length * verb.length * trans.length * youth.length * play.length * kids.length * said.length
+// var combos = ithink.length * towns.length * states.length * schoolType.length * districts.length * wap_lyrics.length * roman.length * btw.length * bwm.length * bonfire.length * heyya.length * bee.length * mg.length * low.length * ijhs.length * roses.length * choices.length * kids.length * crt.length * laura.length * greetings.length * urName.length * closing.length * said.length
 //   console.log(combos)
+
+
   
 })
